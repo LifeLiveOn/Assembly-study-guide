@@ -1,4 +1,4 @@
-Creating a README for a GitHub repository focused on study guides and examples from the book "Assembly Language for x86 Processors" by Kip Irvine can be very useful for learners. Below is a template that you can use and modify according to your project specifics:
+
 
 ---
 
@@ -46,5 +46,3 @@ You can find more resources and projects by the author of the book on his GitHub
 [Kip Irvine's GitHub][https://github.com/KipIrvine](https://github.com/surferkip/asmbook)
 
 ---
-
-Make sure to customize and expand each section as needed, especially if you add or change content significantly. Also, always ensure that you respect copyright laws and use only the material you are allowed to share publicly. This template should serve as a starting point for building a useful and compliant repository.
